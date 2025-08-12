@@ -7,7 +7,7 @@ I'm a passionate Pentester who loves to write challenges, and loves a good chall
 ## 🚀 About Me
 
 - 🔭 Currently studying for more Certifications like CPTS, BCSP and eventually CRTO and CWEE.
-- 📝 I put my exam reviews and CTF/Hackthebox machine writeups on my blog - [https://sidd-sh.com](https://sidd-sh.com).
+- 📝 I put my exam reviews and CTF/Hackthebox machine writeups on my blog - [https://sidd.sh](https://sidd.sh).
 - ✍️ Challenge Author @DownUnderCTF
 
 ## Tech Stack
