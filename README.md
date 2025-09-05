@@ -6,7 +6,7 @@ I'm a passionate Pentester who loves to write challenges, and loves a good chall
 
 ## 🚀 About Me
 
-- 🔭 Currently studying for more Certifications like CPTS, BCSP and eventually CRTO and CWEE.
+- 🔭 Currently studying for more Certifications like BCSP and eventually CRTO, CAPE and CWEE.
 - 📝 I put my exam reviews and CTF/Hackthebox machine writeups on my blog - [https://sidd.sh](https://sidd.sh).
 - ✍️ Challenge Author @DownUnderCTF
 
@@ -22,6 +22,7 @@ I'm a passionate Pentester who loves to write challenges, and loves a good chall
 - OSCP
 - OSWP
 - Pentest+ (Expired 2024)
+- CPTS
 
 ## 📬 Get in Touch
 
